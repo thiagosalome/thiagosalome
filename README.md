@@ -11,9 +11,9 @@
 
 Apaixonado por código e criação, procuro estar sempre **aprendendo algo novo e buscando boas referências**, implementando uma ideia diferente a cada desafio. Me sinto muito motivado quando participo de projetos que me agregam novos conhecimentos. Além do mais, gosto de poder compartilhá-los com outras pessoas, contribuindo para a comunidade de desenvolvimento como um todo.
 
-:office: Desenvolvedor Front-end no [Inter](https://bancointer.com.br/)
-:mortar_board: Formado em Sistemas de Informação pela [PUC Minas](https://www.pucminas.br/)
-:house: Belo Horizonte - MG
+- :office: Desenvolvedor Front-end no [Inter](https://bancointer.com.br/)
+- :mortar_board: Formado em Sistemas de Informação pela [PUC Minas](https://www.pucminas.br/)
+- :house: Belo Horizonte - MG
 
 ## :bar_chart: Github Status
 
@@ -23,4 +23,4 @@ Apaixonado por código e criação, procuro estar sempre **aprendendo algo novo 
 ## :star: Top Languages
 
 <!-- Top Languages -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thiagosalome&show_icons=true&title_color=C93D3E&text_color=363636&&bg_color=F9F9F9)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thiagosalome&show_icons=true&title_color=C93D3E&text_color=363636&&bg_color=F9F9F9)
