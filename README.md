@@ -9,11 +9,16 @@
 <!-- Banner -->
 ## :boy: Sobre mim
 
-Apaixonado por código e criação, procuro estar sempre **aprendendo algo novo e buscando boas referências**, implementando uma ideia diferente a cada desafio. Me sinto muito motivado quando participo de projetos que me agregam novos conhecimentos. Além do mais, gosto de poder compartilhá-los com outras pessoas, contribuindo para a comunidade de desenvolvimento como um todo.
+<div style="display: flex; align-items: center;">
+  <div>
+    Apaixonado por código e criação, procuro estar sempre **aprendendo algo novo e buscando boas referências**, implementando uma ideia diferente a cada desafio. Me sinto muito motivado quando participo de projetos que me agregam novos conhecimentos. Além do mais, gosto de poder compartilhá-los com outras pessoas, contribuindo para a comunidade de desenvolvimento como um todo.
 
-- :office: Desenvolvedor Front-end no [Inter](https://bancointer.com.br/)
-- :mortar_board: Formado em Sistemas de Informação pela [PUC Minas](https://www.pucminas.br/)
-- :house: Belo Horizonte - MG
+    :office: Desenvolvedor Front-end no [Inter](https://bancointer.com.br/) <br>
+    :mortar_board: Formado em Sistemas de Informação pela [PUC Minas](https://www.pucminas.br/) <br>
+    :house: Belo Horizonte - MG
+  </div>
+  ![Teste](http://s2.glbimg.com/-p1otaWHnNYONNJu4xkKVDfUdtY=/123x60:976x679/695x504/s.glbimg.com/po/tt2/f/original/2016/02/18/giphy.gif)  
+</div>
 
 ## :bar_chart: Github Status
 
