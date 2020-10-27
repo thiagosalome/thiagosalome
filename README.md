@@ -10,7 +10,7 @@
 <!-- Banner -->
 ## :boy: Sobre mim
 
-<a href='https://www.thiagosalome.com.br/' target='_blank'>
+<a href='https://www.thiagosalome.com.br/'>
   <img src='./images/developer.png' align='right' width='330'>
 </a>
 
