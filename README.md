@@ -9,8 +9,9 @@
 
 <!-- Banner -->
 <a href='https://www.thiagosalome.com.br/'>
-  <img src='./images/developer.png' align='right' width='300'>
+  <img src='./images/developer.png' align='right' width='350'>
 </a>
+
 ## :boy: Sobre mim
 
 Apaixonado por código e criação, procuro estar sempre **aprendendo algo novo e buscando boas referências**, implementando uma ideia diferente a cada desafio. Me sinto muito motivado quando participo de projetos que me agregam novos conhecimentos. Além do mais, gosto de poder compartilhá-los com outras pessoas, contribuindo para a comunidade de desenvolvimento como um todo.
