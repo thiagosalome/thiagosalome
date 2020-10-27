@@ -4,7 +4,8 @@
 [![Site Badge](https://img.shields.io/badge/Site-thiagosalome.com.br-red)](https://www.thiagosalome.com.br/)
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/thiagosalome)](https://github.com/thiagosalome)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thiagosalome)](https://www.linkedin.com/in/thiagosalome)
-[![Linkedin Badge](https://img.shields.io/badge/-Hackerrank-green?style=flat-square&logo=Hackerrank&logoColor=white&link=https://www.hackerrank.com/thiagosalome)](https://www.hackerrank.com/thiagosalome)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/thiagosalome)](https://twitter.com/thiagosalome)
+[![Hackerrank Badge](https://img.shields.io/badge/-Hackerrank-green?style=flat-square&logo=Hackerrank&logoColor=white&link=https://www.hackerrank.com/thiagosalome)](https://www.hackerrank.com/thiagosalome)
 
 <!-- Banner -->
 <a href='https://www.thiagosalome.com.br/'>
