@@ -11,7 +11,7 @@
 ## :boy: Sobre mim
 
 <a href='https://www.thiagosalome.com.br/'>
-  <img src='./images/developer.png' align='right' width='350'>
+  <img src='./images/developer.png' align='right' width='300'>
 </a>
 
 Apaixonado por código e criação, procuro estar sempre **aprendendo algo novo e buscando boas referências**, implementando uma ideia diferente a cada desafio. Me sinto muito motivado quando participo de projetos que me agregam novos conhecimentos. Além do mais, gosto de poder compartilhá-los com outras pessoas, contribuindo para a comunidade de desenvolvimento como um todo.
@@ -19,8 +19,6 @@ Apaixonado por código e criação, procuro estar sempre **aprendendo algo novo 
 :office: Desenvolvedor Front-end no [Inter](https://bancointer.com.br/) <br>
 :mortar_board: Formado em Sistemas de Informação pela [PUC Minas](https://www.pucminas.br/) <br>
 :house: Belo Horizonte - MG <br>
-
----
 
 ## :bar_chart: Github Status
 
