@@ -20,6 +20,8 @@ Apaixonado por código e criação, procuro estar sempre **aprendendo algo novo 
 :mortar_board: Formado em Sistemas de Informação pela [PUC Minas](https://www.pucminas.br/) <br>
 :house: Belo Horizonte - MG <br>
 
+---
+
 ## :bar_chart: Github Status
 
 <!-- Github Status -->
